@@ -1,5 +1,5 @@
-name: bloc_1
-description: A new Flutter application.
+name: BLoC_Architecture_Flutter (Counter Example)
+description: Project explains counter example using BLoC Architecture.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
