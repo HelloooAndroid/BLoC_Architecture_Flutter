@@ -4,7 +4,7 @@ enum CounterEvents { encrement, decrement }
 
 class CounterBloc extends Bloc<CounterEvents, int> {
   @override
-  int get initialState => 0;
+  int get initialState => 1;
 
   @override
   Stream<int> mapEventToState(CounterEvents event) async* {
